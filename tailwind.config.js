@@ -10,7 +10,7 @@ module.exports = {
     extend: {
       colors: {
         neutral: {
-          850: "#1f1f1f",
+          850: "#000000",
         },
       },
       fontFamily: {
